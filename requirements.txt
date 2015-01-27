@@ -1,0 +1,53 @@
+# prod requirements
+# sha256: G4jdtVszwrmhMAnW9W-j8JcjtAqgxIF2D_jfh1tqA2s
+# sha256: HvSGayima8gi3CSoXzrGfGjaeUhPAsZqCyBSNMKEQ-4
+configman==1.2.8
+# sha256: UV_5I0YlkugyHfi0jEfjQo-NQG7iK43ne--WnRrxEXE
+configobj==4.7.2
+# sha256: oz42dZy6Gowxw8AelDtO4gRgTW_xPdooH484k7I5EOY
+hbase-thrift==0.20.4
+# sha256: YjGaw0shgNRQpNknhzyyYA88E7zmsgd83XcMd7Oph-E
+isodate==0.4.7
+# sha256: U6gisBsElN-WWMBOhyFhgOXsvoWxeGc92Eix-AnVwQA
+# sha256: u5PYXKflDWjkGXhSu226YJi7dyUA-C9dsv9KgHEVBck
+elasticsearch==1.2
+# sha256: atb_lGMjAnslXevLZuPgNeVF1fhCe7Vji2LjskbU2Io
+# sha256: jEZclknV3j4XtGOFcipJBRERC2A8o8E62cdxMqRnxCw
+elasticsearch-dsl==0.0.2
+# sha256: 2upIE6eJSfnxlBvixW1aviyZqFgjUMrwWYBPtleIrKU
+pyelasticsearch==0.6.1
+# sha256: QQvqlt8kefozmGxAw-76nB57qVp_cHEcMVhgu-LWbH8
+# sha256: 2Fg3nvWYjUU0u4kJQy1pdCIQCq_ycimdZhM5g2ttrps
+urllib3==1.9.1
+# sha256: cHay6ATFKumO3svU3B-8qBMYb-f1_dYlR4OgClWntEI
+elasticutils==0.7
+# sha256: wn5AqzzPN_MKn3estJFzcNk0HiWr2o6Uub1IxxJ_fUg
+raven==3.4.1
+# sha256: KjGJ950ce4ohSaDng8C0IX-tmzCm59YEUPJVPcLA5X4
+simplejson==3.6.5
+# sha256: HwRtz17HEu076GhLnzPJW3bijNHIJdsPXhVXv9h7N0U
+# sha256: e3c179Ox4jI9yfzvBgs4DQX18YvQ8kf16edKYoJ53mY
+requests==2.5.1
+# sha256: M4j8GiynpdQmG00ePYtzQsv0vxz7NwIxHGCTIUMs7Xg
+# sha256: eoQsn4gsCyqxBk1We7n_9qIcnvvD2Zkgg61hk3h-05M
+six==1.7.3
+# sha256: RdsWgxKmgg_XhpfHtv0BlvOvkiyOvIhUDt0Nb6_tVU0
+statsd==2.1.2
+# sha256: xF7Ftf6qulO7rmndlxwoGDLxMy1ZSc1uXKJ3R_6SJWo
+web.py==0.36
+# sha256: x-YQyACVcEbATIAUqrjM6PC58ElcjNNJ5XwffKv0Dnk
+wsgiref==0.1.2
+# sha256: aM-CXyJ8guGsYeQjz8rZI_9zTCe1vdcXRJXRYsQsYCs
+ujson==1.33
+# sha256: TETsP5_wV7jHtMeL7KX92HEGAOqaHfQvMb_Lri8Fne4
+python-dateutil==2.1
+# sha256: HDW0rCBs7y0kgWyJ-Jzyid09OM98RJuz-re_bUPwGx8
+ordereddict==1.1
+# sha256: 44gt0em6ljTu9e602O_Ml64V1IKWqGFEtRTJwQxslxw
+# sha256: 5dFhnMcB4H5GhM-hUsM4RKf3noEAQB1B_Z4MBV-PYjg
+crontabber==0.15
+
+# sometimes you get the tarball, sometimes you get the wheel
+# sha256: vP9eVeRaj-DDdx6AVgIdSHFN6WQh0e3uw20S9zdQOZc
+# sha256: wVmeZhdKbKtjPLa_XsJZDM4QTCPRY5XAK9pe2T6nlHw
+boto==2.28.0
